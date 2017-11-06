@@ -1,5 +1,7 @@
 {
   "name": "jsdaycan2017.movies-client",
+  "description": "A React + Apollo aplication that consumes a GraphQL API about movies",
+  "author": "Ivan Bacallado Trujillo",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
